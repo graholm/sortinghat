@@ -1,0 +1,2 @@
+# sortinghat
+Classadoo generated repo
