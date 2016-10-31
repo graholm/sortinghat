@@ -1,5 +1,5 @@
 var firebaseConfig = {
-  apiKey: "",
+  apiKey: "AIzaSyBampknNk5CGgYFcZ6EQZAf8oGRndOQ8zw",
   authDomain: "dproject-db31a.firebaseio.com",
   databaseURL: "https://project-db31a.firebaseio.com/"	
 };
