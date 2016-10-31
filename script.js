@@ -17,7 +17,7 @@ function chooseRandomHouse() {
 
 sortButton.click(function() {
   var name = nameInput.val
-  console.log (name)
+  console.log ()
 
   addListItem("enrolledStudents", {
     name: name,
