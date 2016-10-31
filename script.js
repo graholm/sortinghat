@@ -30,6 +30,5 @@ onNewListItem("enrolledStudents", function(student) {
 
   var newStudentElement = $("<div></div>")
 
-
   enrolledStudentList.append(newStudentElement)
 })
